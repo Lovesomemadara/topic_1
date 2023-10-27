@@ -1,2 +1,1 @@
-# Выводит в консоль надпись
-print("Hello, World!")  # допишите код
+print("Hello, World!")

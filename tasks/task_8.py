@@ -1,6 +1,6 @@
-a = "3.8"
-b = "15"
+a: str = "3.8"
+b: str = "15"
 
-multi = float(a) * int(b)  # здесь Ваш код
+multi: int = int(float(a)) * int(b)
 
-print("Произведение чисел:", multi)  # допишите код
+print("Произведение чисел:", multi)
